@@ -1,5 +1,5 @@
-README
-======
+README [![Build Status](https://secure.travis-ci.org/refuge/etap.png)](http://travis-ci.org/refuge/etap)
+========================================================================================================
 
 etap is a collection of Erlang modules that provide a TAP testing client library. These modules allow developers to create extensive and comprehensive tests covering many aspects of application and module development. This includes simple assertions, exceptions, the application behavior and event web requests. This library was originally written by Jeremy wall.
 
